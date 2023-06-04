@@ -32,4 +32,7 @@ for Option Pricing
 The Python Notebook are in \CaseStudy Scientific Computing
 
 ## My Current Work
-Will be updated
+The Python files are in \Dissertation Python Files
+
+##My notes for discussion
+The notes are in \Notes
